@@ -1,2 +1,2 @@
 # Flappy-ToTo
-Toto!!! 
+Click On index.html to play
